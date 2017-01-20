@@ -1,0 +1,7 @@
+### Vagrant ###
+.vagrant/
+
+
+### Composer ###
+composer.phar
+/vendor/
